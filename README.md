@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# [Adetimehin Taiwo Boluwatife] - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -15,23 +15,26 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+*Absenteeism caused by illness can cause a disruption to the academic trajectory of primary school children and missed lessons and cognitive engagement can ultimately affect performance in examinations and classroom activities
+,the project was carried out to provide quantitative evidence on the impact of malaria on school attendance and academic performance and to access patterns of absenteeism and find out other reasons for absenteeism. 
+Study Area: Ariyo Kiddies Campus,  Ibadan (Oluyole Local government)
+Study Design: Descriptive cross section
+Population: Primary school pupils, Teachers and Parents
+Data Collection: Questionnaires, School attendance register, Interview 
+Data Analysis: Excel, PowerBi
+One major finfing was that Malaria was responsible for approximately 33% of school absences recorded in the study period.*
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
-
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI
+- **Data Analysis**: SQL,Excel.
+- **Data Modeling**: Power Query, DAX, Star Schema Design.
+- **Tools**: Microsoft Fabric
 
 ## 💡 How to Use This Template
 
